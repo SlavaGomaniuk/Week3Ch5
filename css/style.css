@@ -1,0 +1,31 @@
+body {
+  margin: 20px;
+  background-color: rgb(243, 215, 168);
+}
+h1,
+p {
+  text-align: center;
+}
+p {
+  font-size: larger;
+}
+div {
+  margin: 10px;
+  display: flex;
+  justify-content: center;
+}
+div a {
+  margin: 10px;
+  color: brown;
+  font-weight: bolder;
+}
+p {
+  margin: auto;
+}
+img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 5px;
+  display: block;
+  margin: 0 auto;
+}
